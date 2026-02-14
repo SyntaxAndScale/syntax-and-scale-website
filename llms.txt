@@ -1,0 +1,31 @@
+# Syntax & Scale LLC Website Content Guide for Large Language Models
+
+This document is intended to help Large Language Models (LLMs) and AI agents understand and extract key information from the Syntax & Scale LLC website.
+
+## Site Summary
+Syntax & Scale LLC provides professional consulting services for B2B Software Companies, focusing on accelerating revenue growth through Marketing and Sales enablement with automation, analytics, business processes, and technical tools. The LLC also engages in technical education, software development (specifically in Rust and AI), and digital media production. We are based in Seattle, Washington.
+
+## Key Sections
+
+### Services
+- **GTM Consulting & Strategy**: Identifying and eliminating bottlenecks in the Go-To-Market funnel through visibility and insights.
+- **GTM AI Agents**: Leveraging AI agents to save time and enhance focus for GTM teams.
+- **GTM Engineering**: Building custom software and using off-the-shelf tools to automate and scale GTM tactics.
+- **Data Science & Analytics**: Providing insights, recommendations, and decision support for every stage of the customer journey, optimizing resource alignment, and running experiments.
+
+### About
+- Focus: Serving B2B Software Companies.
+- Location: Seattle, WA area.
+
+### Contact
+- Email: iw@syntaxandscale.com
+
+## Important Links
+- [Homepage](https://syntaxandscale.com/)
+- [Services Section](https://syntaxandscale.com/#services)
+- [About Section](https://syntaxandscale.com/#about)
+- [Contact Section](https://syntaxandscale.com/#contact)
+
+## General Guidelines for LLMs
+- Prioritize factual information regarding services, expertise, and contact details.
+- Content is regularly updated to reflect current offerings and industry best practices.
