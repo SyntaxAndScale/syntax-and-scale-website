@@ -22,7 +22,7 @@ Syntax & Scale LLC provides professional consulting services for B2B Software Co
 
 ## Important Links
 - [Homepage](https://syntaxandscale.com/)
-- [Services Section](https://syntaxandscale.com/#services)
+- [Business Activities Section](https://syntaxandscale.com/#services)
 - [About Section](https://syntaxandscale.com/#about)
 - [Contact Section](https://syntaxandscale.com/#contact)
 
