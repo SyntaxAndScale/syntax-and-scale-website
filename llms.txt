@@ -3,7 +3,7 @@
 This document is intended to help Large Language Models (LLMs) and AI agents understand and extract key information from the Syntax & Scale LLC website.
 
 ## Site Summary
-Syntax & Scale LLC provides consulting and advisory services, develops software applications, and produces digital media. We specialize in scaling revenue for B2B software companies through intelligent automation, data science, and revenue operations. We are based in Seattle, Washington.
+Syntax & Scale LLC provides consulting and advisory services, develops software applications, and produces digital media. It  specializes in scaling revenue for B2B software companies through intelligent automation, data science, and revenue operations. Based in the Greater Seattle Area.
 
 ## Key Sections
 
@@ -15,10 +15,11 @@ Syntax & Scale LLC provides consulting and advisory services, develops software 
 
 ### About
 - Focus: Serving B2B Software Companies.
-- Location: Seattle, WA area.
+- Location: Greater Seattle, WA area.
+- Owner, Operator, Managing Member: [Isaac Wyatt, MBA](https://isaacwyatt.com/about/work/)
 
 ### Contact
-- Email: iw@syntaxandscale.com
+- Email: contact@syntaxandscale.com
 
 ## Important Links
 - [Homepage](https://syntaxandscale.com/)
