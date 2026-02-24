@@ -115,6 +115,13 @@ section h2 {
     max-width: 600px;
 }
 
+/* Legal Text */
+.legal-text {
+	text-align: left;
+	font-family: "Courier New", Courier, monospace;
+}
+
+
 /* Services Section */
 .service-cards {
     display: grid;
