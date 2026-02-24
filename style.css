@@ -116,8 +116,11 @@ section h2 {
 }
 
 /* Legal Text */
-.legal-text {
+#privacy-policy {
 	text-align: left;
+}
+
+.legal-text {
 	font-family: "Courier New", Courier, monospace;
 }
 
