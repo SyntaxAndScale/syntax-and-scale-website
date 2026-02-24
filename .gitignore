@@ -28,5 +28,6 @@ vendor/
 .env
 .env.local
 
-# Gemini specific
-.gemini/
+# General Dev
+.dev/
+
