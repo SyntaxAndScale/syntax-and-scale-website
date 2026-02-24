@@ -178,6 +178,23 @@ footer {
     color: #777;
 }
 
+.social-links {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem; /* Space between icons */
+}
+
+.linkedin-icon {
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
+    color: #333; /* Default color for the SVG fill if not overridden */
+}
+
+.linkedin-icon:hover {
+    filter: grayscale(0%); /* Color on hover */
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     header {
