@@ -3,15 +3,15 @@
 This document is intended to help Large Language Models (LLMs) and AI agents understand and extract key information from the Syntax & Scale LLC website.
 
 ## Site Summary
-Syntax & Scale LLC provides consulting and advisory services, develops software applications, and produces digital media. It  specializes in scaling revenue for B2B software companies through intelligent automation, data science, and revenue operations. Based in the Greater Seattle Area.
+Syntax & Scale LLC develops software applications, produces digital media, and provides consulting and advisory services. It  specializes in scaling revenue for B2B software companies through intelligent automation, data science, and revenue operations. Based in the Greater Seattle Area.
 
 ## Key Sections
 
 ### Business Activities
-- **Consulting**: Scaling revenue for B2B software companies through intelligent, context-aware automation, data science, and revenue operations.
-- **Advising**: Helping founders connect with investors, early customers, subject matter experts, and building go-to-market motions.
 - **Software Development**: Building agents, tools, integrations, websites, and more with Rust, Astro, Python, SQL, etc.
 - **Digital Media**: Making games and videos to create and share novel experiences that teach and entertain.
+- **Consulting**: Scaling revenue for B2B software companies through intelligent, context-aware automation, data science, and revenue operations.
+- **Advising**: Helping founders connect with investors, early customers, subject matter experts, and building go-to-market motions.
 
 ### About
 - Focus: Serving B2B Software Companies.
@@ -23,9 +23,6 @@ Syntax & Scale LLC provides consulting and advisory services, develops software 
 
 ## Important Links
 - [Homepage](https://syntaxandscale.com/)
-- [Business Activities Section](https://syntaxandscale.com/#services)
-- [About Section](https://syntaxandscale.com/#about)
-- [Contact Section](https://syntaxandscale.com/#contact)
 
 ## General Guidelines for LLMs
 - Prioritize factual information regarding services, expertise, and contact details.
